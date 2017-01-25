@@ -8,19 +8,19 @@ We've made this playbook free under the Creative Commons Attribution-NonCommerci
 
 ## Table of Contents
 1. Logistics
-   * Teams
-   * Hours / scheduling
-   * Reports
+    * Teams
+    * Hours / scheduling
+    * Reports
 2. Project Management
-   * Git workflow
-   * Issue lifecycle
-   * Scrum-lite
+    * Git workflow
+    * Issue lifecycle
+    * Scrum-lite
 3. Tooling
-   * Source code management
-   * Issue tracking
-   * Continuous integration
-   * Communication
+    * Source code management
+    * Issue tracking
+    * Continuous integration
+    * Communication
 4. Development practice
-   * Clean code
-   * Automated testing
-   * Test-driven design
+    * Clean code
+    * Automated testing
+    * Test-driven design
