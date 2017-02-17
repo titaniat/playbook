@@ -24,4 +24,7 @@ We've made this playbook free under the Creative Commons Attribution-NonCommerci
    * Clean code
    * Automated testing
    * Test-driven design
-5. This is a new section
+5. Engagement
+   * Principles
+   * Tracking
+   * Perks
